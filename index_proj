@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+      <title>My Portifolio</title>
+
+		<meta charset="UTF-8">	
+	  <meta name="viewpoint" 
+			content="width=device-width"
+			initial-scale="1.0">
+		<meta http-equiv="X-Compatible" 
+			contnet="IE=edge">
+
+			<link rel="stylesheet" href="style.css">
+
+    </head>
+
+			<body>
+            <div class="header">
+                <section class="section-1">
+									<marquee class="marquee">You can book 
+										one of my services or discover my 
+										Projects here on my online 
+										portifolio!</marquee>
+										<nav>
+											<a class="logo" href="index.html">ArtDeje</a>
+										</nav> 
+								</section>
+
+								<section class="section-2">
+									<nav align="center">
+										<a href="#">Bio</a>
+										<a href="#">Skills</a>
+										<a href="#">Languages</a>
+										<a href="#">Projects</a>
+										<a href="#">Resume</a>
+										<a href="#">Cantact info</a>
+									</nav>
+								</section>
+            </div>
+
+						<div class="body">
+							<img href="">
+						</div>
+
+						<div class="footer">
+							<section class="footer-section-1">
+								<nav>
+									<li>
+										<a href="#">Cantact info</a>
+									</li>
+								</nav>
+							</section>
+							
+							<p class="copyright"> 
+								Copyright: &copy Artdeje 2023</p>
+						</div>
+
+      </body>
+</html>
